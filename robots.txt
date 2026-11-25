@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tienlee989.github.io/our-story-love/sitemap.xml
